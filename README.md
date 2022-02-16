@@ -1,3 +1,5 @@
+Strony wykonane przeze mnie.
+
 https://kryzos.pl <br />
 https://spaceratznft.xyz <br />
 https://fittapp.ct8.pl
