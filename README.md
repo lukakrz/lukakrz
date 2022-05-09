@@ -1,9 +1,5 @@
 
 
-https://kryzos.pl <br />
-https://spaceratznft.xyz <br />
-https://fittapp.ct8.pl
-
 <!--
 **lukakrz/lukakrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
